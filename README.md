@@ -1,31 +1,31 @@
 # Solution_Set
 
 1. AGM:
-  Generates 3-D Plot for AGM of a range 
-  Input Parameters: Lower limit and Upper Limit of the range
-  Input in demo: Lower limit = 1 
-                 Upper limit = 10
+  Generates 3-D Plot for AGM of a range. 
+  Input Parameters: Lower limit and Upper Limit of the range.
+  Input in demo: Lower limit = 1. 
+                 Upper limit = 10.
 
 2. Voltage Divider:
   Input Parameters: 
-  f: frequency
-  Vm: Max Voltage/Amplitude
-  R1, R2: Resistor values
+  f: frequency.
+  Vm: Max Voltage/Amplitude.
+  R1, R2: Resistor values.
   Input in demo:
   f = 4Hz; Vm = 10V; R1 = 1200 Ohm; R2 = 4700 Ohm
   
 3. RC Divider:
   Input Parameters: 
-  f: frequency
-  Vm: Max Voltage/Amplitude
-  R1: Resistor values
-  C: Capacitance Value
+  f: frequency.
+  Vm: Max Voltage/Amplitude.
+  R1: Resistor values.
+  C: Capacitance Value.
   Input in demo:
   f = 4Hz; Vm = 10V; R1 = 1200 Ohm; C = 120 uF
 
 4. Chaos Game:
   a. Sierpinski Triangle:
-    Generates Sierpinski triangle inside an equilateral triangle with vertices
+    Generates Sierpinski triangle inside an equilateral triangle with vertices:
     (0,0);(0.5,0.866);(4,0)
   
   b. More Generic code which also considers a square:
